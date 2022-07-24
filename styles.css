@@ -10,8 +10,7 @@ h3{
 h4{
   color: #0000ff;
 }
-strong{
-  color: #0000ff;
+strong{color: #0000ff;
 }
 hr{
   border-style: none;
@@ -20,4 +19,3 @@ hr{
   border-width: 3px;
   width: 100%;
 }
-  
